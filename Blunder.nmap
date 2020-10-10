@@ -1,0 +1,4 @@
+# Nmap 7.80 scan initiated Sun Oct 11 07:42:06 2020 as: nmap -sC -sV -oG Blunder Blunder.htb
+Host: 10.10.10.191 (Blunder.htb)	Status: Up
+Host: 10.10.10.191 (Blunder.htb)	Ports: 21/closed/tcp//ftp///, 80/open/tcp//http//Apache httpd 2.4.41 ((Ubuntu))/	Ignored State: filtered (998)
+# Nmap done at Sun Oct 11 07:42:24 2020 -- 1 IP address (1 host up) scanned in 18.38 seconds
